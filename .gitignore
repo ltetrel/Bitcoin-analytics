@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 notebooks/*.png
 data/*
+old_data/*
 .idea
 .vscode
 __pycache__
